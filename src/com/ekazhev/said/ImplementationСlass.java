@@ -119,8 +119,7 @@ public class ImplementationСlass implements DatesToCronConverter{
 
     public String getImplementationInfo(){
         ImplementationСlass i = new ImplementationСlass();
-        return "Экажев Саид Магомед Мусаевич" + ", "+ this.getClass().getPackage().getName() +", "+ this.getClass().getSimpleName()+", https://github.com/SadBoyCarti" +
-                "gn/tree/master/src/com/ekazhev/said";
+        return "Экажев Саид Магомед Мусаевич" + ", "+ this.getClass().getPackage().getName() +", "+ this.getClass().getSimpleName()+", https://github.com/SadBoyCarti/TestTaskDesign/blob/master/src/com/ekazhev/said/Implementation%D0%A1lass.java";
     }
     public static void main(String[] args){
 
